@@ -3,4 +3,4 @@ FlashlightApp was a app built with Xamarin that runs on Android. The simple app 
 
 [Download Release](https://github.com/encodeous/codearchive-FlashlightApp/releases)
 
-Encodeous 2019, Archived Code from 2017
+Archived Code from 2017
